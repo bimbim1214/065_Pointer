@@ -8,3 +8,7 @@ public:
 };
 
 void mahasiswa::showNim() { // implementasi metod di luar kelas
+	cout << "no induk = " << nim << endl;
+}
+
+int main() {
